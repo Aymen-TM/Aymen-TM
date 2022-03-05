@@ -4,5 +4,5 @@
 
 -👀 I'm interested in web development and front-end specifically
 
--📫 How to reach me ...
+-📫 How to reach me:
     Email: t_mustapha_aymen@outlook.com, mostapha.tahrour@gmail.com
